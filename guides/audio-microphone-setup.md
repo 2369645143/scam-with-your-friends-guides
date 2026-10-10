@@ -1,5 +1,5 @@
 ---
-title: "Microphone Optimization & Voice AI Latency Tuning Guide"
+title: "Microphone Setup & Voice AI Latency Tuning"
 description: "Configure your microphone for minimal AI speech recognition latency in Scam With Your Friends. Learn push-to-talk settings, noise gate calibration, soundboard routing, and text fallback mode."
 category: "Audio & Input"
 badge: "VERIFIED CALL CENTER STRATEGY • EA 2026"

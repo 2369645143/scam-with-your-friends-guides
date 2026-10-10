@@ -1,5 +1,5 @@
 ---
-title: "Scambaiter Defense & Bait Detection: Spotting Jim Browning & Kitboga Traps"
+title: "Scambaiter Defense: Spotting Kitboga Traps"
 description: "Learn to detect AI scambaiters, counter-hackers, and undercover vigilantes in Scam With Your Friends. Avoid workstation syskey locks, deleted call logs, and catastrophic shift losses."
 category: "Threat Defense"
 badge: "VERIFIED CALL CENTER STRATEGY • EA 2026"

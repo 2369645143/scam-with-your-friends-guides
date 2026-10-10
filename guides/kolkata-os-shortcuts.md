@@ -1,5 +1,5 @@
 ---
-title: "Kolkata OS Mastery: Desktop Shortcuts, Remote Access & Fake ID Tools"
+title: "Kolkata OS Mastery: Shortcuts & Remote Tools"
 description: "Master the simulated in-game Kolkata OS in Scam With Your Friends. Maximize keyboard shortcuts, remote desktop sessions, fake security badges in Paint, and CMD prompt tricks."
 category: "Office Software"
 badge: "VERIFIED CALL CENTER STRATEGY • EA 2026"

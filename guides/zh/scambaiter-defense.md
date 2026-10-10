@@ -1,5 +1,5 @@
 ---
-title: "反钓鱼防线：精准识别 Jim Browning 与 Kitboga 式反诈主播陷阱"
+title: "反钓鱼防线：反诈主播识别与应急切断"
 description: "在《Scam With Your Friends》中识别 AI 反诈主播与反向黑客。避开工位系统锁死、通话记录被盗与警车瞬间突袭的灾难局面。"
 category: "安全防御"
 badge: "官方验证实战策略 • 2026 EA"

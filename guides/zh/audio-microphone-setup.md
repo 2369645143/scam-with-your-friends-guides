@@ -1,5 +1,5 @@
 ---
-title: "麦克风灵敏度调校与 AI 语音低延迟优化指南"
+title: "麦克风灵敏度调校与 AI 语音低延迟优化"
 description: "在《Scam With Your Friends》中优化物理麦克风与 AI 语音识别。详解一键按键通话设置、噪声门限校准、声卡路由与纯文本打字降级模式。"
 category: "音频设置"
 badge: "官方验证实战策略 • 2026 EA"

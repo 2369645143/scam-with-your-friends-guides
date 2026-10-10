@@ -1,5 +1,5 @@
 ---
-title: "PC 硬件配置要求、Steam Deck 最佳画质与网络延迟优化"
+title: "PC 硬件配置要求与 Steam Deck 调优"
 description: "全面评估《Scam With Your Friends》硬件兼容性。涵盖 PC 最低与推荐配置、Steam Deck 45 帧黄金续航参数、以及云端 AI 语音识别低延迟网络测速建议。"
 category: "硬件配置"
 badge: "官方验证实战策略 • 2026 EA"

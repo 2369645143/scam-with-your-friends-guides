@@ -1,5 +1,5 @@
 ---
-title: "Workplace Disasters & Police Raid Evacuation Protocols"
+title: "Police Raids & Workplace Disaster Protocols"
 description: "Survive catastrophic office disasters in Scam With Your Friends. Learn emergency procedures for 30-second police raid sirens, industrial paper shredders, and electrical server fires."
 category: "Emergency Protocol"
 badge: "VERIFIED CALL CENTER STRATEGY • EA 2026"

@@ -1,5 +1,5 @@
 ---
-title: "First Shift Survival Guide: Hitting Day 1 Quota & Surviving The Boss"
+title: "First Shift Survival: Hitting Day 1 Quota"
 description: "Master the Day 1 call center loop in Scam With Your Friends. Learn VoIP phone controls, Caller Trust mechanics, introductory pitches, and avoiding termination during performance review."
 category: "Beginner Roadmap"
 badge: "VERIFIED CALL CENTER STRATEGY • EA 2026"

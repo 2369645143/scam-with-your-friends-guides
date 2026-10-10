@@ -1,5 +1,5 @@
 ---
-title: "6-Player Co-op Team Roles: The Closer, Hacker, Lookout & Prankster Meta"
+title: "6-Player Co-op Team Roles & Closer Synergy"
 description: "Coordinate a chaotic 6-player call center squad in Scam With Your Friends. Learn role assignments, double-teaming high-value callers, shredder rotations, and communication protocols."
 category: "Co-op Tactics"
 badge: "VERIFIED CALL CENTER STRATEGY • EA 2026"

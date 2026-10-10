@@ -1,5 +1,5 @@
 ---
-title: "PC System Requirements, Steam Deck Settings & Network Benchmarks"
+title: "PC System Specs, Steam Deck & Network Setup"
 description: "Verify hardware compatibility for Scam With Your Friends. Review minimum and recommended PC specs, Steam Deck 45 FPS battery profile, and cloud AI voice latency guidelines."
 category: "Hardware & Specs"
 badge: "VERIFIED CALL CENTER STRATEGY • EA 2026"

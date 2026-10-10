@@ -1,5 +1,5 @@
 ---
-title: "Kolkata OS 桌面全攻略：远程桌面软件、画图修图与伪造工牌全操作"
+title: "Kolkata OS 桌面全攻略与快捷键矩阵"
 description: "精通《Scam With Your Friends》工位操作系统 Kolkata OS v4.2。掌握键盘热键矩阵、远程控制会话管理、画图工具秒造认证工牌与黑客终端恐吓技巧。"
 category: "系统工具"
 badge: "官方验证实战策略 • 2026 EA"
