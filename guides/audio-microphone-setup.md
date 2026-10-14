@@ -1,63 +1,38 @@
 ---
-title: "Microphone Setup & Voice AI Latency Tuning"
-description: "Configure your microphone for minimal AI speech recognition latency in Scam With Your Friends. Learn push-to-talk settings, noise gate calibration, soundboard routing, and text fallback mode."
+title: "Microphone & AI Connection Checklist"
+description: "General audio checks and the confirmed online service requirement."
 category: "Audio & Input"
-badge: "VERIFIED CALL CENTER STRATEGY • EA 2026"
-readingTime: "5 min read"
+badge: "SOURCE REVIEW · 2026-10-13"
+readingTime: "2 min read"
 publishDate: "2026-10-10"
 icon: "headset"
 lang: "en"
 ---
 
-The crown jewel of *Scam With Your Friends* is its real-time conversational AI system. Callers do not rely on static branching dialogue trees; they actively listen to your vocal tone, pitch, pacing, and keywords through your real-world microphone.
+## What is confirmed
 
-A poorly configured microphone results in misheard keywords, accidental background noise pickup, or unbearable 4-second latency before the AI responds. Follow this optimization checklist to ensure buttery-smooth conversational flow.
+The developers describe real-time conversations with fictional AI callers. Steam requires broadband internet and lists OpenRouter as a connected third-party AI service. These facts do not establish a particular response time or bandwidth requirement.
 
----
+## General audio preparation
 
-## 1. Push-to-Talk (PTT) vs Voice Activity Detection (VAD)
+The following are general troubleshooting suggestions, not confirmed game menu names or tested presets:
 
-While Voice Activity Detection feels natural, **Push-to-Talk is mandatory for co-op play**:
+- Select the intended microphone in your operating system and check that an ordinary recording is audible.
+- Check microphone permission for the game if your operating system requests it.
+- Use headphones to reduce speaker audio returning through the microphone.
+- If audio is distorted, reduce input gain; if speech is cut off, review any noise suppression you enabled.
+- Open the current game's input settings to see which activation modes and bindings it actually provides.
 
-* **Why VAD Fails in Co-op**: If your co-op buddy screams *"The boss is coming!"* or laughs across Discord, an open microphone transmits that audio directly to your victim. The caller will perceive multiple voices, causing their Suspicion meter to jump by +35%.
-* **Recommended Keybind**: Bind Push-to-Talk to a mouse side button (`Mouse 4` or `Mouse 5`), or your keyboard `Caps Lock` key.
-* **Release Delay**: Set the game's PTT Release Delay to **250ms**. This ensures the tail end of your sentences isn't clipped before the AI finishes transcribing.
+## If AI responses are delayed
 
----
+Check whether your connection is working and whether the game's current build shows a service error. Record the error text, game version, and whether the problem affects only one player before reporting it through the official community. No latency benchmark or guaranteed performance improvement is established by the cited sources.
 
-## 2. Calibrating the In-Game Noise Gate
+## Text entry and service limits
 
-Open the *Audio & Input* settings menu in Kolkata OS and adjust these three sliders:
+The sources checked do not confirm a full text-only fallback, dialogue macros, voice-versus-text modifiers, or an adjustable AI inference buffer. Do not assume these options are available without checking the current build.
 
-```mermaid
-flowchart LR
-    A["Mic Input Level<br/>(Target: -12dB to -6dB)"] --> B["Noise Gate Threshold<br/>(Target: -38dB)"]
-    B --> C["AI Speech Processing Buffer<br/>(Target: 150ms Low-Latency)"]
-    C --> D["Instant Caller Response<br/>Sub-1.2s Turnaround"]
-```
+The developer website advertises an unlimited AI-credit option **for the playtest only**. That wording does not establish the released game's price, credit allowance, or whether a personal OpenRouter account is required. Check the official current instructions before purchasing or configuring an account.
 
-1. **Input Sensitivity**: Speak in your normal conversational tone. The green audio bar should bounce comfortably between -12dB and -6dB. If it peaks into the red, lower your OS gain to eliminate harsh clipping.
-2. **Noise Suppression**: Keep the AI Background Filter enabled. It filters out mechanical keyboard clicks (crucial when typing rapidly during CMD commands).
-3. **AI Latency Preset**: Under *Advanced Audio*, select **"Fast Inference (Cloud Stream)"** if you have a stable broadband connection. This cuts the AI's thinking pause from 2.8 seconds down to 0.9 seconds!
+## Sources & review
 
----
-
-## 3. Accent Tuning & Keyword Clarity
-
-The game's speech recognition engine is tuned to identify core psychological pressure words. Emphasize these trigger words clearly:
-
-- **Urgency Triggers**: *"Immediately"*, *"Arrest Warrant"*, *"Federal Marshal"*, *"Expired License"*.
-- **Tech Triggers**: *"AnyDesk"*, *"UltraConnect"*, *"TeamViewer"*, *"Event Viewer"*, *"Trojan"*.
-- **Financial Triggers**: *"Google Play"*, *"Target Card"*, *"Wire Transfer"*, *"Overpayment Refund"*.
-
-> **Clear Enunciation**: If the AI mishears you saying *"Apple Card"* as *"Apple Cart"*, the caller will ask confused questions about fruit, resetting your pitch progress!
-
----
-
-## 4. Text-Chat Fallback Mode
-
-If you play late at night or don't have a functional microphone, enable **Text-Chat Mode** in the gameplay options:
-
-* An in-game chat box docks below your SIP phone.
-* Press `Enter` to type custom responses or use number keys `1-4` to fire pre-written quick-dialogue macros.
-* Text mode provides 100% keyword accuracy, but callers receive a slight -10% charisma modifier compared to live voice acting.
+Last source check: **2026-10-13**. Official facts are based on the [Steam store](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/?l=english) and [developer website](https://jataterworldwide.com/scam-with-your-friends/). Suggestions are identified separately and are not playtest results.

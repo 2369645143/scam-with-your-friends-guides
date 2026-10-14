@@ -1,55 +1,35 @@
-# Scam With Your Friends: Open Strategy Guides & Walkthrough Knowledge Base
+# Scam With Your Friends — Open Reference Guides
 
-[![Website](https://img.shields.io/badge/Live_Hub-scam--with--your--friends.online-10b981?style=for-the-badge&logo=google-chrome&logoColor=black)](https://scam-with-your-friends.online/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-059669?style=for-the-badge)](LICENSE)
-[![Steam AppID](https://img.shields.io/badge/Steam_AppID-4954910-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/)
-[![Guides](https://img.shields.io/badge/Open_Guides-7_Dual--Language_Topics-06b6d4?style=for-the-badge)](./guides/)
+[Website](https://scamwithyourfriendsguide.online/) · [中文站点](https://scamwithyourfriendsguide.online/zh/) · [License](LICENSE)
 
-> **Welcome to the open-source community walkthrough and strategy knowledge base for *Scam With Your Friends* (JakeHub & Metater / Jatater Worldwide).**  
-> This repository is dedicated to maintaining high-accuracy, freely accessible game documentation, social engineering dialogue trees, and call center workflows in Markdown.
+Sources checked **2026-10-13**. Steam currently plans Early Access for **2026-10-15**. This is a planned date, not a completed release or a claim that these guides were playtested.
 
-- 🌐 **Production Web Application & Interactive Simulators**: [https://scam-with-your-friends.online/](https://scam-with-your-friends.online/)
-- 🇨🇳 **中文镜像站点与实机对练模拟器**: [https://scam-with-your-friends.online/zh/](https://scam-with-your-friends.online/zh/)
+The Steam playtest notice allows an accepted participant to invite up to three friends. This does not confirm the released game's maximum party size. No six-player limit is asserted here.
 
----
+These English and Chinese Markdown guides distinguish official feature descriptions, editorial advice and details still requiring evidence. They are not a complete database of dialogue, callers, prices, trust thresholds or rewards.
 
-## 📚 Open-Source Strategy Guides (Markdown Directory)
+## Topic index
 
-All tutorials and walkthroughs are open-source and maintained directly in this repository. Click any topic below to read the Markdown guide directly on GitHub, or access the corresponding real-time interactive tools on the live website:
+| Topic | English | 中文 | Site reference |
+| --- | --- | --- | --- |
+| Getting started | [Guide](guides/beginner-guide.md) | [新手入门](guides/zh/beginner-guide.md) | [Getting started](https://scamwithyourfriendsguide.online/guides/beginner-guide) |
+| Scambaiters and viruses | [Guide](guides/scambaiter-defense.md) | [反诈角色与病毒](guides/zh/scambaiter-defense.md) | [Hazard notes](https://scamwithyourfriendsguide.online/guides/scambaiter-defense) |
+| In-game desktop | [Guide](guides/kolkata-os-shortcuts.md) | [游戏内桌面](guides/zh/kolkata-os-shortcuts.md) | [Office tools](https://scamwithyourfriendsguide.online/upgrades) |
+| Workplace disruptions | [Guide](guides/police-raids-disasters.md) | [办公室事件](guides/zh/police-raids-disasters.md) | [Quotas and reviews](https://scamwithyourfriendsguide.online/boss) |
+| Audio and AI connection | [Guide](guides/audio-microphone-setup.md) | [麦克风与连接](guides/zh/audio-microphone-setup.md) | [Input reference](https://scamwithyourfriendsguide.online/controls) |
+| Co-op preparation | [Guide](guides/coop-team-strategies.md) | [联机准备](guides/zh/coop-team-strategies.md) | [Co-op reference](https://scamwithyourfriendsguide.online/coop) |
+| PC requirements | [Guide](guides/system-requirements.md) | [电脑配置](guides/zh/system-requirements.md) | [System requirements](https://scamwithyourfriendsguide.online/guides/system-requirements) |
 
-| System / Guide Topic | English Markdown Guide | 中文 Markdown 攻略 | Live Web Companion |
-| :--- | :--- | :--- | :--- |
-| **First Shift Survival & Day 1 Quota** | [beginner-guide.md](./guides/beginner-guide.md) | [首日业绩与开局起步](./guides/zh/beginner-guide.md) | [Live Beginner Hub](https://scam-with-your-friends.online/guides/beginner-guide) |
-| **Scambaiter Defense & Bait Traps** | [scambaiter-defense.md](./guides/scambaiter-defense.md) | [反诈主播识别与防线](./guides/zh/scambaiter-defense.md) | [Scambaiter Defense](https://scam-with-your-friends.online/guides/scambaiter-defense) |
-| **Kolkata OS Mastery & Fake IDs** | [kolkata-os-shortcuts.md](./guides/kolkata-os-shortcuts.md) | [Kolkata OS 桌面全攻略](./guides/zh/kolkata-os-shortcuts.md) | [OS & Upgrades Hub](https://scam-with-your-friends.online/upgrades) |
-| **Police Raids & Office Disasters** | [police-raids-disasters.md](./guides/police-raids-disasters.md) | [警车突袭与火灾撤离规程](./guides/zh/police-raids-disasters.md) | [Boss & Crisis Guide](https://scam-with-your-friends.online/boss) |
-| **Microphone & Voice AI Tuning** | [audio-microphone-setup.md](./guides/audio-microphone-setup.md) | [麦克风低延迟调校指南](./guides/zh/audio-microphone-setup.md) | [Controls & Audio](https://scam-with-your-friends.online/controls) |
-| **6-Player Co-op Team Roles Meta** | [coop-team-strategies.md](./guides/coop-team-strategies.md) | [6人联机职能分配战术](./guides/zh/coop-team-strategies.md) | [Co-op Multiplayer Hub](https://scam-with-your-friends.online/coop) |
-| **System Requirements & Steam Deck** | [system-requirements.md](./guides/system-requirements.md) | [PC配置与Steam Deck](./guides/zh/system-requirements.md) | [System Specs Hub](https://scam-with-your-friends.online/guides/system-requirements) |
+## Tools on the website
 
----
+- [Self-input quota calculator](https://scamwithyourfriendsguide.online/tools/quota-simulator): arithmetic using the values you enter, without game thresholds, bonus rules or boss predictions.
+- [Local text exercise](https://scamwithyourfriendsguide.online/tools/call-simulator): prewritten website dialogue, not game AI, a game simulator or playtest evidence.
+- [Conversation reference](https://scamwithyourfriendsguide.online/scripts): official feature descriptions and preparation advice, not a verified script database.
 
-## 🧮 Live Interactive Simulators on Main Site
+## Sources and contributions
 
-Experience real-time interactive tools hosted on the production website:
-* **[Shift Quota & Bonus Calculator](https://scam-with-your-friends.online/tools/quota-simulator)**: Model 1-6 player call center yields, conversion rates, and Boss evaluation grades.
-* **[Interactive Social Engineering Call Simulator](https://scam-with-your-friends.online/tools/call-simulator)**: Practice dialogue choices against AI caller archetypes and monitor live Trust/Suspicion meters.
-* **[6 Core Call Scripts Database](https://scam-with-your-friends.online/scripts)**: Search and filter full dialogue trees and objection rebuttals.
+Use the [official Steam listing](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/?l=english) and [developer website](https://jataterworldwide.com/scam-with-your-friends/) for current announcements.
 
----
+Corrections should include a source URL, applicable build and relevant screenshots or reproducible observations. Label editorial suggestions and fictional practice material clearly. Update both language versions and keep this public mirror aligned with the website content.
 
-## 🤝 Contributing to Game Guides
-
-Found a patch update change in AI caller behavior, an unlisted Kolkata OS shortcut, or a new dialogue trigger? Community contributions are warmly welcomed:
-
-1. Fork this repository: `https://github.com/open-game-wiki/scam-with-your-friends-guides`
-2. Create your fix branch: `git checkout -b fix/caller-payout-update`
-3. Edit the relevant Markdown file in `./guides/` (and `./guides/zh/` if applicable).
-4. Commit your changes: `git commit -m "fix(callers): update Gladys base trust after EA Patch"`
-5. Push to your branch and open a Pull Request.
-
----
-
-## ⚖️ Legal & Fair Use Disclaimer
-
-This repository is an **unofficial, community-driven knowledge base** and is not affiliated with, endorsed by, or sponsored by JakeHub, Metater, or Jatater Worldwide. All trademarks, game logos, and character designs remain the exclusive property of their respective owners under Fair Use educational/informational provisions.
+This is an unofficial reference, not affiliated with JakeHub, Metater or Jatater Worldwide. Rights to game materials and trademarks remain with their respective owners.

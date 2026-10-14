@@ -1,58 +1,44 @@
 ---
-title: "PC System Specs, Steam Deck & Network Setup"
-description: "Verify hardware compatibility for Scam With Your Friends. Review minimum and recommended PC specs, Steam Deck 45 FPS battery profile, and cloud AI voice latency guidelines."
-category: "Hardware & Specs"
-badge: "VERIFIED CALL CENTER STRATEGY • EA 2026"
-readingTime: "4 min read"
+title: "PC Requirements & Steam Deck Status"
+description: "The Steam minimum specification, plus clearly identified compatibility unknowns."
+category: "Hardware & Network"
+badge: "SOURCE REVIEW · 2026-10-13"
+readingTime: "2 min read"
 publishDate: "2026-10-10"
 icon: "headset"
 lang: "en"
 ---
 
-*Scam With Your Friends* pairs retro office simulation aesthetics with cutting-edge real-time cloud AI speech processing. While the graphics engine runs effortlessly on modest GPUs, real-time voice recognition and VoIP streaming require stable internet throughput and decent CPU multitasking.
+## Minimum PC specification
 
-Here are the officially verified PC specifications, Steam Deck optimization presets, and network bandwidth thresholds.
+The following values are transcribed from the Steam store on **October 13, 2026**. Steam does not associate them with a guaranteed resolution or frame rate.
 
----
+| Component | Steam minimum requirement |
+| :--- | :--- |
+| Operating system | Windows 10 / 11 (64-bit) |
+| Processor | Intel Core i5-8400 / AMD Ryzen 5 2600 |
+| Memory | 3 GB RAM |
+| Graphics | NVIDIA GTX 1060 (6 GB) / AMD RX 580 |
+| DirectX | Version 11 |
+| Network | Broadband internet connection |
+| Storage | 5 GB available space |
 
-## 1. Official PC System Specifications
+The Steam recommended section currently states only that a 64-bit processor and operating system are required. It does not publish a complete recommended hardware table. We therefore do not supply one.
 
-| Hardware Component | Minimum Requirement (1080p 30 FPS) | Recommended Spec (1080p 60 FPS) |
-| :--- | :--- | :--- |
-| **Operating System** | Windows 10 (64-bit) | Windows 10/11 (64-bit) |
-| **Processor (CPU)** | Intel Core i3-6100 / AMD Ryzen 3 1200 | Intel Core i5-9400 / AMD Ryzen 5 3600 |
-| **Memory (RAM)** | 8 GB RAM | 16 GB Dual-Channel RAM |
-| **Graphics (GPU)** | NVIDIA GeForce GTX 960 (4GB) / AMD Radeon RX 560 | NVIDIA GeForce GTX 1660 Super / AMD Radeon RX 5600 XT |
-| **Storage** | 6 GB available SSD space | 6 GB NVMe SSD space |
-| **DirectX** | Version 11 | Version 12 |
-| **Audio Hardware** | Standard USB Headset with Microphone | Dedicated Cardioid Microphone with Noise Gate |
-| **Network** | Broadband connection (10 Mbps down / 2 Mbps up) | Stable fiber connection (50+ Mbps with <50ms ping) |
+## Steam Deck and other platforms
 
----
+This page does not have a verified Steam Deck compatibility result or a measured performance profile. Frame rate, battery life, power limits, microphone behavior, and controller mapping need a test that identifies the hardware and game build. Windows specifications alone do not confirm Steam Deck, Linux, or macOS compatibility.
 
-## 2. Steam Deck Optimization Profile (45 FPS Golden Ratio)
+## AI service and network
 
-*Scam With Your Friends* is fully playable on the Steam Deck, featuring complete controller remapping and seamless built-in microphone pickup:
+Steam lists OpenRouter as a third-party service for AI content generation. Broadband is required; the official listing does not specify a minimum Mbps value, cloud latency target, or per-session data consumption.
 
-```mermaid
-flowchart TD
-    Deck["Steam Deck Handheld"] --> P1["In-Game Settings: Medium Preset, Ambient Occlusion OFF"]
-    Deck --> P2["Deck Quick Settings: Lock Refresh Rate to 45Hz / 45 FPS"]
-    Deck --> P3["TDP Limit: Set to 9 Watts"]
-    Deck --> P4["Built-in Mic: Calibrate Noise Gate to -34dB"]
-    P1 & P2 & P3 & P4 --> Result["Smooth 45 FPS Gameplay with ~3.8 Hours Battery Life"]
-```
+The developer's unlimited AI-credit offer is labelled for the playtest only. Consult the current official service instructions for account, credit, and purchase details rather than assuming they carry over to release.
 
-### Handheld Tips:
-- **Trackpad Navigation**: Set the Right Trackpad to *As Mouse* and Left Trackpad to *Radial Menu* for instant Kolkata OS shortcuts (`F2`, `F4`, `F8`, `F9`).
-- **Deck Microphone**: The Steam Deck's dual array microphones perform surprisingly well, but avoid resting your palms over the top grille to maintain crisp vocal clarity.
+## Before installing
 
----
+Compare your hardware against the current Steam listing and leave adequate installation space. If a test build behaves differently, include its version and your hardware when reporting the issue. General audio checks are collected in the [microphone guide](https://scamwithyourfriendsguide.online/guides/audio-microphone-setup/).
 
-## 3. Network & Voice AI Latency Benchmarks
+## Sources & review
 
-The conversation engine operates over encrypted cloud endpoints:
-
-- **Bandwidth Consumption**: Approximately 35 MB per 15-minute game shift per connected player.
-- **Packet Loss Sensitivity**: Packet loss above 3% causes stuttered voice transmission, leading the AI caller to misinterpret your words or ask *"Can you repeat that?"*
-- **Ping to Cloud Servers**: Ping under 60ms delivers instantaneous 0.9s response intervals. Ping over 180ms increases AI response time to ~2.5 seconds.
+Last source check: **2026-10-13**. Official facts are based on the [Steam store](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/?l=english) and [developer website](https://jataterworldwide.com/scam-with-your-friends/). Suggestions are identified separately and are not playtest results.
