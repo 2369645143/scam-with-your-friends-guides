@@ -2,7 +2,7 @@
 title: "Getting Started: The Call Center Loop"
 description: "Officially announced gameplay and a practical first-session checklist."
 category: "Getting Started"
-badge: "SOURCE REVIEW · 2026-10-13"
+badge: "SOURCE REVIEW · 2026-10-15"
 readingTime: "2 min read"
 publishDate: "2026-10-10"
 icon: "phone-call"
@@ -29,10 +29,16 @@ The cited sources do not establish a fixed shift timetable, first-day quota, vis
 
 ## Before playing
 
-The Steam page currently lists planned Early Access for **October 15, 2026**; the game was not yet released when checked on October 13. The developers target a full release around mid-December, but describe the timeline as an estimate. Broadband internet is required and Steam lists OpenRouter as a third-party AI service.
+The Steam page currently lists planned Early Access for **October 15, 2026**; the game was not yet released when checked on October 15. The developers target a full release around mid-December, but describe the timeline as an estimate. Broadband internet is required and Steam lists OpenRouter as a third-party AI service.
 
 See [PC requirements](https://scamwithyourfriendsguide.online/guides/system-requirements/), [audio preparation](https://scamwithyourfriendsguide.online/guides/audio-microphone-setup/), and [co-op notes](https://scamwithyourfriendsguide.online/guides/coop-team-strategies/).
 
 ## Sources & review
 
-Last source check: **2026-10-13**. Official facts are based on the [Steam store](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/?l=english) and [developer website](https://jataterworldwide.com/scam-with-your-friends/). Suggestions are identified separately and are not playtest results.
+Last source check: **2026-10-15**. Official facts are based on the [Steam store](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/?l=english) and [developer website](https://jataterworldwide.com/scam-with-your-friends/). Suggestions are identified separately and are not playtest results.
+
+## October 15 source update and applicable version
+
+Scope: announced PC Early Access features before unlock; no release build tested. Steam still displayed “not yet available” during this check. The [October 14 third-party shift guide](https://scamwithyourfriends.net/how-to-play/) is also explicitly based on pre-release materials. Its exact payouts and day-specific app unlocks are not adopted as tested rules here.
+
+For a first shift, use the actual objective and available apps, complete a call, check whether its outcome counted toward the team total, and read the boss review. This is an editorial checklist based on the announced loop, not a guaranteed winning sequence. See [custom caller and mod notes](/guides/mods-custom-callers/).

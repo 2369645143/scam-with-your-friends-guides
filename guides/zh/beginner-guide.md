@@ -2,7 +2,7 @@
 title: "新手入门：呼叫中心玩法与准备"
 description: "整理官方已公布的核心循环，并区分建议与尚待实测的机制。"
 category: "新手入门"
-badge: "官方资料整理 · 2026-10-13"
+badge: "官方资料整理 · 2026-10-15"
 readingTime: "约 2 分钟"
 publishDate: "2026-10-10"
 icon: "phone-call"
@@ -29,10 +29,16 @@ lang: "zh"
 
 ## 开玩前须知
 
-截至 2026 年 10 月 13 日核验，Steam 显示计划于 **2026 年 10 月 15 日开启抢先体验**，尚未正式开放。开发者预计约在 12 月中旬推出完整版，但日期可能调整。游戏需要宽带网络，Steam 列出 OpenRouter 为第三方 AI 服务。
+截至 2026 年 10 月 15 日核验，Steam 显示计划于 **2026 年 10 月 15 日开启抢先体验**，尚未正式开放。开发者预计约在 12 月中旬推出完整版，但日期可能调整。游戏需要宽带网络，Steam 列出 OpenRouter 为第三方 AI 服务。
 
 可继续阅读 [PC 配置](https://scamwithyourfriendsguide.online/zh/guides/system-requirements/)、[音频准备](https://scamwithyourfriendsguide.online/zh/guides/audio-microphone-setup/)和[联机建议](https://scamwithyourfriendsguide.online/zh/guides/coop-team-strategies/)。
 
 ## 来源与核验
 
-核验日期：**2026-10-13**。官方事实依据 [Steam 商店](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/?l=english)与[开发商网站](https://jataterworldwide.com/scam-with-your-friends/)；文中建议已单独标明，不代表实测结果。
+核验日期：**2026-10-15**。官方事实依据 [Steam 商店](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/?l=english)与[开发商网站](https://jataterworldwide.com/scam-with-your-friends/)；文中建议已单独标明，不代表实测结果。
+
+## 10 月 15 日新增核验与适用版本
+
+范围：PC 抢先体验开放前公布的功能，未测试发售构建。本次核验时 Steam 仍显示尚未开放。[10 月 14 日第三方工作日指南](https://scamwithyourfriends.net/how-to-play/)也明确基于预发布资料，其中精确收益及按天解锁应用的说法，不作为本站实测规则收录。
+
+首次上班可按实际目标和可用应用完成一通电话，检查结果是否计入团队总额，再阅读老板结算。这是基于官方循环的编辑建议，不是必胜步骤。另见[自定义角色与模组说明](/zh/guides/mods-custom-callers/)。
