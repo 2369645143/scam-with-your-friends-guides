@@ -22,7 +22,7 @@ The official Steam listing sells a downloadable PC game. The word “online” d
 ## Prepare a co-op session
 1. Have everyone check the same game and available update in Steam.
 2. Check microphone input and game audio before starting an AI call.
-3. Use the lobby and join options visible in your current build. Public lobbies are listed, but this page does not claim an unverified invitation shortcut or player cap.
+3. Use the lobby and join options visible in your current build. Hotfix 2 confirms 1–8 players. See the [lobby/code guide](/guides/coop-team-strategies/) for invitations, version mismatches and mid-day joining.
 4. If joining or dialogue fails, note whether it affects one player or the whole group. Check official announcements and report the build, error and reproduction steps.
 5. Agree who is speaking and who is tracking the shared objective. The [shift planner](/tools/shift-planner/) can keep your own quota notes.
 
@@ -34,4 +34,6 @@ These are preparation suggestions, not tested fixes. Do not change firewall rule
 ## Sources
 [Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/?l=english) and [developer page](https://jataterworldwide.com/scam-with-your-friends/), checked October 28, 2026. No launch-build session was tested for this article.
 
-Speech/backend update checked October 28, 2026 against [0.1.95](https://steamcommunity.com/app/4954910/allnews/); historical hardware-check dates above are retained.
+Speech/backend update checked October 28, 2026 against [0.1.95](https://steamcommunity.com/app/4954910/allnews/).
+
+[Official multiplayer notes: Hotfix 2, 0.1.90 and 0.1.95](https://steamcommunity.com/app/4954910/allnews/), checked October 28, 2026.

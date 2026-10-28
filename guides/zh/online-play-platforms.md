@@ -22,7 +22,7 @@ lang: "zh"
 ## 联机前准备
 1. 每位玩家先确认 Steam 中的游戏与可用更新一致。
 2. 开始 AI 通话前检查麦克风输入和游戏声音。
-3. 使用当前版本显示的大厅和加入选项。官方列出了公共大厅，但本页不声称未经核实的邀请快捷键或人数上限。
+3. 使用当前版本显示的大厅和加入选项。官方列出了公共大厅，官方 Hotfix 2 已确认 1–8 人，邀请与班中加入见下文。
 4. 加入或对话失败时，记录只影响一人还是整组，查看官方公告，求助时附版本、错误和复现步骤。
 5. 约定谁负责说话、谁跟踪共同目标，可用[班次计划器](/zh/tools/shift-planner/)记录自己的配额。
 
@@ -34,4 +34,9 @@ lang: "zh"
 ## 来源
 [Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/?l=english)、[开发者页面](https://jataterworldwide.com/scam-with-your-friends/)，核验于 2026-10-28；本篇没有进行首发版本联机实测。
 
-语音与后端补充核验：2026-10-28，依据 [0.1.95 公告](https://steamcommunity.com/app/4954910/allnews/)；原有硬件配置的历史核验日期保持不变。
+语音与后端补充核验：2026-10-28，依据 [0.1.95 公告](https://steamcommunity.com/app/4954910/allnews/)。
+
+## 合作人数与邀请
+官方 Hotfix 2 已明确大厅为 **1–8 人**。0.1.90 增加班中加入开关；0.1.95 的复制邀请码在暂停菜单底部。详见[合作人数与邀请码](/zh/guides/coop-team-strategies/)，不要沿用旧试玩邀请数量推断上限。
+
+[官方联机更新：Hotfix 2、0.1.90、0.1.95](https://steamcommunity.com/app/4954910/allnews/)，2026-10-28。

@@ -2,9 +2,9 @@
 
 [Website](https://scamwithyourfriendsguide.online/) · [中文站点](https://scamwithyourfriendsguide.online/zh/) · [License](LICENSE)
 
-Sources checked **2026-10-13**. Steam currently plans Early Access for **2026-10-15**. This is a planned date, not a completed release or a claim that these guides were playtested.
+Updated **2026-10-28**. Steam lists the Early Access release on **2026-10-15**. Current multiplayer and storage notes follow official updates through 0.1.95; individual source dates remain in each guide. This is not a playtest claim.
 
-The Steam playtest notice allows an accepted participant to invite up to three friends. This does not confirm the released game's maximum party size. No six-player limit is asserted here.
+Official Hotfix 2 confirms **1–8 player lobbies**. The old playtest invitation count does not override that released rule.
 
 These English and Chinese Markdown guides distinguish official feature descriptions, editorial advice and details still requiring evidence. They are not a complete database of dialogue, callers, prices, trust thresholds or rewards.
 
@@ -39,3 +39,10 @@ This is an unofficial reference, not affiliated with JakeHub, Metater or Jatater
 - [Beginner Guide](https://scamwithyourfriendsguide.online/guides/beginner-guide/) · [中文](https://scamwithyourfriendsguide.online/zh/guides/beginner-guide/)
 - [Online Play Platforms](https://scamwithyourfriendsguide.online/guides/online-play-platforms/) · [中文](https://scamwithyourfriendsguide.online/zh/guides/online-play-platforms/)
 - [Price Release Date](https://scamwithyourfriendsguide.online/guides/price-release-date/) · [中文](https://scamwithyourfriendsguide.online/zh/guides/price-release-date/)
+
+## Community questions reviewed · 2026-10-28 / 社区问题补充
+
+- [guides/audio-microphone-setup](guides/audio-microphone-setup.md) · [中文](guides/zh/audio-microphone-setup.md) · [Website](https://scamwithyourfriendsguide.online/guides/audio-microphone-setup/)
+- [guides/coop-team-strategies](guides/coop-team-strategies.md) · [中文](guides/zh/coop-team-strategies.md) · [Website](https://scamwithyourfriendsguide.online/guides/coop-team-strategies/)
+- [guides/online-play-platforms](guides/online-play-platforms.md) · [中文](guides/zh/online-play-platforms.md) · [Website](https://scamwithyourfriendsguide.online/guides/online-play-platforms/)
+- [guides/save-slots-steam-cloud](guides/save-slots-steam-cloud.md) · [中文](guides/zh/save-slots-steam-cloud.md) · [Website](https://scamwithyourfriendsguide.online/guides/save-slots-steam-cloud/)

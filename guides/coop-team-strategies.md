@@ -1,60 +1,39 @@
 ---
-title: "Co-op Multiplayer, Player Limits & Team Strategies"
-description: "Everything about Scam With Your Friends co-op: party size limits (up to 6 players), desk hijacking mechanics, and how to divide tasks to hit quota."
+title: "Co-op: Player Limits, Lobby Codes & Joining Mid-Shift"
+description: "Set up a 1–8 player Scam With Your Friends lobby, check invite codes and version mismatches, and understand the host’s mid-day join setting."
 category: "Co-op"
-badge: "COMMUNITY-TESTED GUIDE • EARLY ACCESS"
-readingTime: "3 min read"
+badge: "SOURCE CHECK · 2026-10-28"
+readingTime: "4 min read"
 publishDate: "2026-10-10"
-updatedDate: "2026-10-14"
-icon: "headset"
+updatedDate: "2026-10-28"
 lang: "en"
 ---
 
-## Multiplayer Party Size & Lobby Options
 
-*Scam With Your Friends* accommodates varied group sizes:
-* **Player Cap**: Standard online multiplayer lobbies support **up to 6 players** simultaneously working the call center floor.
-* **Solo Play**: Yes, single-player is fully supported if you prefer handling the chaos entirely alone.
-* **Lobby Types**: Host private invite-only friend rooms or join public matchmaking lobbies.
+## How many players can join?
+**1–8 players**, according to the October 15 Hotfix 2. The old six-player limit on this page was incorrect. Single-player is also listed on Steam; this does not promise offline AI dialogue.
 
----
+## Host and share a lobby
+1. Check that everyone has installed the available Steam update and compare the displayed versions.
+2. Create the lobby using the current hosting menu. Decide whether to allow **mid-day joins**; 0.1.90 added this host setting. Turning it off restricts new joins to between shifts.
+3. In 0.1.95, **Copy Lobby Code** is on the pause menu's bottom action bar. Share the current code with the intended group.
+4. Use Join by Code; Hotfix 2 added Steam invite-link acceptance. The Steam Friends button opens the current lobby's invite dialog, per 0.1.83.
 
-## The "Desk Hijacking" Mechanic
+## Lobby code not working or version mismatch?
+| Symptom | Check before retrying |
+| --- | --- |
+| Invalid code | Copy again from the active lobby; check for missing characters or an old invitation. |
+| Different game version | Compare versions with the host and finish the pending Steam update. |
+| Cannot join during a shift | Ask the host about Allow mid-day joins; wait until between shifts if disabled. |
+| Lobby joins, but calls fail | Separate lobby admission from [speech/backend errors](/guides/audio-microphone-setup/). |
 
-One of the game's funniest and most competitive mechanics is **Desk Hijacking**:
-* Multiple phones ring randomly across the room during the 20-minute workday.
-* If a teammate is distracted, drawing in MS Paint, or freezing up against an aggressive caller, you can physically sprint over, **slap them out of their desk chair**, and seize control of their computer terminal to close the deal.
-* Stealing high-payout leads from underperforming friends is a core feature designed to keep everyone active.
+The checks above are diagnostic suggestions, not reproduced fixes. If joining still fails, record the exact message, host and guest versions, and whether any guest can join. Do not post private lobby codes in a public bug report.
 
----
+## Can you knock a seated teammate out of their desk?
+The October 20 **0.1.83** notes say seated players can no longer be ragdolled. The old desk-hijacking instructions on this page no longer match that rule. Do not rely on hitting a seated player to hand over a call.
 
-## Recommended Team Role Division
+## Coordinate your group
+Agree who is talking and who is noting objectives before starting. Let each player check their own microphone, language and output settings. Keep your group's own targets in the [shift planner](/tools/shift-planner/); its arithmetic does not establish a fixed shift duration or a hidden quota formula.
 
-Hitting harsh daily quotas requires more than just rambling on the phone. Highly effective 4-to-6-player crews assign dynamic roles:
-
-### 1. The Closer (Primary Talkers)
-* Sits at high-tier desks answering incoming calls.
-* Focuses on building trust and pushing the final fraudulent transfer.
-
-### 2. The Technician (Remote Access Operator)
-* Monitors the client's simulated computer screen via in-game remote software (Kolkata OS).
-* Deploys fake malware warnings, installs dummy software, and locks the client's screen.
-
-### 3. The Enforcer / Office Runner
-* Runs around handling physical emergencies (putting out burning printers, deflecting police inspection alarms, and brewing coffee for stamina).
-* Steps in to take over ringing desks when lines get overloaded.
-
----
-
-## Surviving the 20-Minute Shift
-
-1. **Prioritize High Net-Worth Leads**: Not all callers have equal savings. Prioritize wealthy eccentric targets over broke college students.
-2. **Watch the Shared Quota Bar**: Don't waste 10 minutes on a stubborn target that refuses to budge—hang up and take a fresh call.
-3. **Avoid Getting Scambaited**: Some callers are undercover baiters looking to hack your server and wipe your shift earnings.
-
----
-
-## Sources & Verification
-
-- Confirmed via developer updates and community gameplay logs (October 14, 2026).
-- Official details confirmed via [Steam Store — Scam With Your Friends](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/).
+## Sources and scope
+[Official Hotfix 2 and updates 0.1.83, 0.1.90, 0.1.95](https://steamcommunity.com/app/4954910/allnews/), checked October 28, 2026. No current-build co-op session was playtested. See [online/platform status](/guides/online-play-platforms/) and [saves and Cloud](/guides/save-slots-steam-cloud/).
