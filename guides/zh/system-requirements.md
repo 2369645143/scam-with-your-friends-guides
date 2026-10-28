@@ -7,6 +7,7 @@ readingTime: "约 2 分钟"
 publishDate: "2026-10-10"
 icon: "headset"
 lang: "zh"
+updatedDate: "2026-10-28"
 ---
 
 ## 最低 PC 配置
@@ -31,7 +32,7 @@ Steam 的推荐配置栏目前仅注明需要 64 位处理器和操作系统，�
 
 ## AI 服务与网络
 
-Steam 将 OpenRouter 列为用于 AI 内容生成的第三方服务。官方要求宽带网络，但没有注明最低 Mbps、云端延迟目标或每局流量消耗。
+历史商店说明列有 OpenRouter，但 [0.1.95 官方更新](https://steamcommunity.com/app/4954910/allnews/)已移除标准构建中的 OpenRouter 与 Gladia 可选集成，旧 OpenRouter 选择会回退至 Official Backend。宽带要求不能换算成未经实测的延迟或流量保证；当前语音设置见[教程](/zh/guides/audio-microphone-setup/)。
 
 开发商提供的无限 AI 额度选项标明仅适用于 Playtest。账号、额度和购买条件应查阅最新官方服务说明，不应直接沿用为发行版本的规则。
 
@@ -42,3 +43,5 @@ Steam 将 OpenRouter 列为用于 AI 内容生成的第三方服务。官方要�
 ## 来源与核验
 
 核验日期：**2026-10-13**。官方事实依据 [Steam 商店](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/?l=english)与[开发商网站](https://jataterworldwide.com/scam-with-your-friends/)；文中建议已单独标明，不代表实测结果。
+
+语音与后端补充核验：2026-10-28，依据 [0.1.95 公告](https://steamcommunity.com/app/4954910/allnews/)；原有硬件配置的历史核验日期保持不变。

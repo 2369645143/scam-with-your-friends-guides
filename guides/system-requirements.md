@@ -7,6 +7,7 @@ readingTime: "2 min read"
 publishDate: "2026-10-10"
 icon: "headset"
 lang: "en"
+updatedDate: "2026-10-28"
 ---
 
 ## Minimum PC specification
@@ -31,7 +32,7 @@ This page does not have a verified Steam Deck compatibility result or a measured
 
 ## AI service and network
 
-Steam lists OpenRouter as a third-party service for AI content generation. Broadband is required; the official listing does not specify a minimum Mbps value, cloud latency target, or per-session data consumption.
+Historical store text lists OpenRouter, but the [official 0.1.95 update](https://steamcommunity.com/app/4954910/allnews/) removes optional OpenRouter and Gladia integrations from standard builds and reverts old OpenRouter selections to Official Backend. A broadband requirement does not supply a measured latency or bandwidth guarantee; see [speech settings](/guides/audio-microphone-setup/).
 
 The developer's unlimited AI-credit offer is labelled for the playtest only. Consult the current official service instructions for account, credit, and purchase details rather than assuming they carry over to release.
 
@@ -42,3 +43,5 @@ Compare your hardware against the current Steam listing and leave adequate insta
 ## Sources & review
 
 Last source check: **2026-10-13**. Official facts are based on the [Steam store](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/?l=english) and [developer website](https://jataterworldwide.com/scam-with-your-friends/). Suggestions are identified separately and are not playtest results.
+
+Speech/backend update checked October 28, 2026 against [0.1.95](https://steamcommunity.com/app/4954910/allnews/); historical hardware-check dates above are retained.

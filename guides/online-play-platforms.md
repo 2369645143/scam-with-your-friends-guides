@@ -11,7 +11,7 @@ lang: "en"
 ---
 
 ## Can you play online with friends?
-Yes. The current Steam page lists online co-op, public lobbies and single-player. The game entered Early Access on October 15, 2026. A single-player option does not mean the AI conversation systems work offline: broadband internet is required, and Steam discloses an OpenRouter connection for AI content.
+Yes. The current Steam page lists online co-op, public lobbies and single-player. The game entered Early Access on October 15, 2026. Single-player does not establish offline AI conversations. In standard builds, 0.1.95 removes optional OpenRouter and Gladia integrations and reverts old OpenRouter selections to Official Backend; see [speech settings](/guides/audio-microphone-setup/).
 
 ## Is it on Xbox or PS5?
 The checked sources establish the Windows Steam release. They do not provide a confirmed Xbox or PS5 release date. Controller input on PC and a console release are different features; do not buy a PC key expecting it to activate on a console.
@@ -33,3 +33,5 @@ These are preparation suggestions, not tested fixes. Do not change firewall rule
 
 ## Sources
 [Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/?l=english) and [developer page](https://jataterworldwide.com/scam-with-your-friends/), checked October 28, 2026. No launch-build session was tested for this article.
+
+Speech/backend update checked October 28, 2026 against [0.1.95](https://steamcommunity.com/app/4954910/allnews/); historical hardware-check dates above are retained.

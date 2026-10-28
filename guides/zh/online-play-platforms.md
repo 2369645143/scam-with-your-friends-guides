@@ -11,7 +11,7 @@ lang: "zh"
 ---
 
 ## 能与朋友在线玩吗？
-可以。当前 Steam 页面列出在线合作、公共大厅与单人模式。游戏于 2026 年 10 月 15 日开启抢先体验。单人模式不代表 AI 对话可以离线运行：官方要求宽带网络，Steam 也披露使用 OpenRouter 连接生成 AI 内容。
+可以。当前 Steam 页面列出在线合作、公共大厅与单人模式。游戏于 2026 年 10 月 15 日开启抢先体验。单人模式不代表 AI 对话可以离线运行。0.1.95 标准构建已移除 OpenRouter 与 Gladia 可选集成，旧 OpenRouter 选择回退到 Official Backend；详见[语音设置](/zh/guides/audio-microphone-setup/)。
 
 ## Xbox 或 PS5 能玩吗？
 本次核对来源确认的是 Windows Steam 版本，没有提供已确认的 Xbox 或 PS5 发售日期。PC 上的手柄输入与主机发售是两件事，不要购买 PC 激活码后期待在主机使用。
@@ -33,3 +33,5 @@ lang: "zh"
 
 ## 来源
 [Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/?l=english)、[开发者页面](https://jataterworldwide.com/scam-with-your-friends/)，核验于 2026-10-28；本篇没有进行首发版本联机实测。
+
+语音与后端补充核验：2026-10-28，依据 [0.1.95 公告](https://steamcommunity.com/app/4954910/allnews/)；原有硬件配置的历史核验日期保持不变。
