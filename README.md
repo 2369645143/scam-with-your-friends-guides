@@ -33,3 +33,9 @@ Use the [official Steam listing](https://store.steampowered.com/app/4954910/Scam
 Corrections should include a source URL, applicable build and relevant screenshots or reproducible observations. Label editorial suggestions and fictional practice material clearly. Update both language versions and keep this public mirror aligned with the website content.
 
 This is an unofficial reference, not affiliated with JakeHub, Metater or Jatater Worldwide. Rights to game materials and trademarks remain with their respective owners.
+
+## October 28 guide updates / 10 月 28 日攻略更新
+
+- [Beginner Guide](https://scamwithyourfriendsguide.online/guides/beginner-guide/) · [中文](https://scamwithyourfriendsguide.online/zh/guides/beginner-guide/)
+- [Online Play Platforms](https://scamwithyourfriendsguide.online/guides/online-play-platforms/) · [中文](https://scamwithyourfriendsguide.online/zh/guides/online-play-platforms/)
+- [Price Release Date](https://scamwithyourfriendsguide.online/guides/price-release-date/) · [中文](https://scamwithyourfriendsguide.online/zh/guides/price-release-date/)
